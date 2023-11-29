@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Hemanth Devarakonda
+logo: /assets/img/Profilepic.jpeg
+description: 
+    <p align="center">
+    <a href="https://www.linkedin.com/in/hemanth-devarakonda-9b747855">LinkedIn</a> |
+    <a href="https://github.com/Hemanth-Devarakonda">GitHub</a>
+
+    <br>
+    With 9+ years of experience in multiple programming languages, proactively keeps up with industry trends.
+    Driven to wear many programming hats with expertise in enhancing existing applications and creating 
+    completely new ones.
+    <br>
+    </p>
+    
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
